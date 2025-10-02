@@ -5,8 +5,9 @@ Each DAO lives for a fixed duration (e.g., 24 hours), then automatically finaliz
 
 > “Not all ideas deserve to live forever. Some are meant to burn bright and vanish.”
 
+
 ## 🌐 Deployed on Somnia Mainnet
-`[Contract address will be added after deployment]`
+[`0x8e166334A7C23e20A0495ae4dF5a891C68b6D34E`](https://explorer.somnia.network/address/0x8e166334A7C23e20A0495ae4dF5a891C68b6D34E)
 
 You can verify activity via [Somnia Explorer](https://explorer.somnia.network).
 

@@ -7,10 +7,6 @@ module.exports = {
     somnia: {
       url: "https://rpc.somnia.network",
       accounts: [process.env.PRIVATE_KEY],
-    },
-    somniaTestnet: {
-      url: "https://rpc.testnet.somnia.network",
-      accounts: [process.env.PRIVATE_KEY],
     }
   }
 };

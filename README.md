@@ -1,7 +1,7 @@
 # Temporal DAO
 
 Self-destructing, time-bound DAOs on **Somnia**.  
-Each DAO lives for a fixed duration (e.g., 24 hours), then automatically finalizes — no bureaucracy, no decay, just pure creative bursts.
+Each DAO lives for a fixed duration (e.g., 24 hours), then automatically finalizes no bureaucracy, no decay, just pure creative bursts.
 
 > “Not all ideas deserve to live forever. Some are meant to burn bright and vanish.”
 

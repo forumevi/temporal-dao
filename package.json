@@ -1,0 +1,14 @@
+{
+  "name": "temporal-dao",
+  "version": "1.0.0",
+  "description": "Self-destructing DAOs on Somnia",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0",
+    "dotenv": "^16.4.5"
+  }
+}
